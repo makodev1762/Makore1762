@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makore1762
 - 👀 I’m interested in Gaming! I do play Minecraft, World of Warcraft, FFXIV and many more!
-- 🌱 I’m currently learning Kotlin and Android Programming
+- 🌱 I’m currently learning Full Stack Web Development on the Odin Project!
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me Makore1762 is my tag in many places!
 - 😄 Pronouns: He/Them!
