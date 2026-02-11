@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Makore1762
+- 👋 Hi, I’m @MakoDev
 - 👀 I’m interested in Gaming! I do play Minecraft, World of Warcraft, FFXIV and many more!
 - 🌱 I’m currently learning Full Stack Web Development on the Odin Project!
 - 💞️ I’m looking to collaborate on many projects
